@@ -25,10 +25,10 @@ This project investigates whether sleep duration and screen time before bed pred
 ## Dashboard Preview
 
 ### Technical Page
-![Technical Dashboard](technical_dashboard.png)
+![Technical Dashboard](/PowerBI/technical_dashboard.png)
 
 ### Non-Technical Page
-![Non-Technical Dashboard](nontechnical_dashboard.png)
+![Non-Technical Dashboard](/PowerBI/nontechnical_dashboard.png)
 
 ## Key Findings
 Neither sleep duration nor screen time before bed appears to predict physical activity levels in teenagers. The moderation analysis confirmed that screen time before bed does not moderate the relationship between sleep and physical activity (p = .647).
