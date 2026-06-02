@@ -4,7 +4,7 @@
 This project investigates whether sleep duration and screen time before bed predict physical activity levels in teenagers. A moderation analysis was conducted to determine whether screen time before bed moderates the relationship between sleep and physical activity.
 
 ## Dataset
-- **Source:** Kaggle — Social Media Impact on Teen Mental Health
+- **Source:** Kaggle - Social Media Impact on Teen Mental Health
 - **Type:** Synthetic data (1,200 observations)
 - **Note:** Results should not be used to draw real-world conclusions
 
